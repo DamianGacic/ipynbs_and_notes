@@ -1,1 +1,1 @@
-Place to save python notebooks and notes, mainly about C/C++ programming and scientific Python.
+Place to save my python notebooks and notes, mainly about C/C++ programming and scientific Python.
